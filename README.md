@@ -1,4 +1,4 @@
-# Solar PV Fault Detection Pipeline
+# Solar PV Fault Detection Pipeline 
 
 This repository contains a practical machine learning pipeline for **solar photovoltaic (PV) fault detection** from timestamped telemetry.
 
