@@ -10,7 +10,7 @@ It supports:
 - **Multiclass classification**: optional fault-type prediction
 - **Time-series-aware training and validation**
 - **Recall-prioritized thresholding** to reduce missed faults
-- **Near-real-time batch scoring** helpers
+- **Near-real-time batch scoring** helpers 
 
 ---
 
