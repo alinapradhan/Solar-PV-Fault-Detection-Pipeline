@@ -6,7 +6,7 @@ The implementation lives in:
 - `pv_fault_detection_pipeline.py`  
 
 It supports: 
-- **Binary classification**: normal vs fault
+- **Binary classification**: normal vs fault 
 - **Multiclass classification**: optional fault-type prediction
 - **Time-series-aware training and validation**
 - **Recall-prioritized thresholding** to reduce missed faults
