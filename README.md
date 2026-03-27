@@ -3,7 +3,7 @@
 This repository contains a practical machine learning pipeline for **solar photovoltaic (PV) fault detection** from timestamped telemetry.
 
 The implementation lives in:
-- `pv_fault_detection_pipeline.py`
+- `pv_fault_detection_pipeline.py` 
 
 It supports:
 - **Binary classification**: normal vs fault
