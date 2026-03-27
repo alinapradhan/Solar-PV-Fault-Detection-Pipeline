@@ -5,7 +5,7 @@ This repository contains a practical machine learning pipeline for **solar photo
 The implementation lives in: 
 - `pv_fault_detection_pipeline.py` 
 
-It supports:
+It supports: 
 - **Binary classification**: normal vs fault
 - **Multiclass classification**: optional fault-type prediction
 - **Time-series-aware training and validation**
