@@ -12,7 +12,7 @@ It supports:
 - **Recall-prioritized thresholding** to reduce missed faults
 - **Near-real-time batch scoring** helpers 
 
---- 
+---  
 
 ## 1) Problem Setup
 
